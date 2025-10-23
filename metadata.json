@@ -1,0 +1,5 @@
+{
+  "name": "ReactFlix - Netflix Clone",
+  "description": "A Netflix-style homepage built with React, TypeScript, and Tailwind CSS, featuring interactive video carousels with hover-to-expand video cards and a detail modal.",
+  "requestFramePermissions": []
+}
